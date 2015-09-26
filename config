@@ -9,8 +9,8 @@
 	 * Get this by registering a new (desktop) application at 
 	 * http://twitter.com/apps
 	 */
-	"consumer_key": "abcdeFghIjklMnOpQrStUv",
-	"consumer_secret": "abcdefgh123456789abcdefgh123456789abcdefg",
+	"consumer_key": "8Qj7TkfRlppHzib1S7XfiJ8o3",
+	"consumer_secret": "tkoyANYO1ThbLbWxk9uHBLD35DefWVQ5Uu2jFoGaosUhtBoFQB",
 
 	/*
 	 * The strings that a tweet should be matched against.
