@@ -16,7 +16,7 @@
 	 * The strings that a tweet should be matched against.
 	 * These strings are matched in lower case.
 	 */
-	"match": ["#sometag", "#someothertag", "someword"]
+	"match": ["#ShowtimeKapamilyaDay", "#someothertag", "someword"]
 
 	/*
 	 * List name from which statuses are retweeted.
